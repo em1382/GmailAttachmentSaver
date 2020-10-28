@@ -1,2 +1,4 @@
 # GmailAttachmentSaver
-Google App Script to save attachments from Gmail.
+Google Apps Script to save attachments from Gmail.
+
+Completely work in progress, just playing around with Google Apps Script.
